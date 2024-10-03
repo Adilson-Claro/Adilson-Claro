@@ -1,12 +1,8 @@
 ## Opa, aqui é o Adilson!
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adilson-Claro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
-  </div>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-Claro&layout=compact&langs_count=16&theme=dark&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
-  </div>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adilson-Claro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-Claro&layout=compact&langs_count=16&theme=dark&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
 </div>
 <br>
 
@@ -27,6 +23,8 @@
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
     </a>
   </div>
+</div>
+
 </div>
 
 
