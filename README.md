@@ -1,8 +1,8 @@
 ## Opa, aqui é o Adilson!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adilson-Claro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-Claro&layout=compact&langs_count=16&theme=dark&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adilson-Claro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-Claro&layout=compact&langs_count=16&theme=dark&bg_color=0d1117&text_color=ffffff&border_color=cccccc"/>
 </div>
 <br>
 
